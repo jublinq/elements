@@ -42,7 +42,7 @@
 				<item id="8">If you can guess what I’m about to do, that means I’ve run out of imagination.</item>
 			</select>
 			<select name="Ideal" type="List">
-				<item id="1">Guild. My guild is all that real ly matters. (Any)</item>
+				<item id="1">Guild. My guild is all that really matters. (Any)</item>
 				<item id="2">Creativity. Half the world’s troubles come from stodgy thinking, stuck in the past. We need innovative solutions. (Chaotic)</item>
 				<item id="3">Discovery. Every experiment has the potential to reveal more secrets of the multiverse. (Any)</item>
 				<item id="4">Science. A rigorous application of logical principles and protocols will lead us toward progress more surely than any belief system. (Lawful)</item>
